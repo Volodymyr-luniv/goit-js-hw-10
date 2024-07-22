@@ -1,0 +1,58 @@
+.iziToast-custom {
+  top: 30px;
+  right: 300px;
+  position: fixed;
+}
+
+.form {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #fff;
+}
+
+.form-input {
+  display: flex;
+  width: 344px;
+  height: 40px;
+  padding-left: 16px;
+  border-radius: 4px;
+  border: 1px solid #808080;
+  color: #2e2f42;
+  font-family: Montserrat;
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+
+.form-fieldset {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  width: 340px;
+  height: 48px;
+  border-radius: 4px;
+  border: 1px solid #808080;
+  margin-bottom: 24px;
+}
+
+.form-label-fieldset {
+  display: flex;
+  align-items: center;
+}
+
+.form-btn {
+  display: flex;
+  width: 360px;
+  padding: 8px 16px;
+  justify-content: center;
+  cursor: pointer;
+  border-radius: 8px;
+  background-color: #4e75ff;
+  border: none;
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.64px;
+}
